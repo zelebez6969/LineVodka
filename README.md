@@ -27,4 +27,4 @@ Video Tutorial
 Author
 ------
 
-Merk Kremont / [@merkremont](https://twitter.com/merkremont)
+Merk Kremont /(https://twitter.com/merkremont)
